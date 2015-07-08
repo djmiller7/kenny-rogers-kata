@@ -8,6 +8,8 @@ It might be worthwhile to think of this as a comparator function.  In fact, ther
 
 ## Valid Poker Hands
 
+
+
 Just for those of y'all who might need a refresher on the topic, here are the power hands ranked best to worst.
 
 | Hand Rank       | Description                                                            |
